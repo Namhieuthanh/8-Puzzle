@@ -1,0 +1,14 @@
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csprojAssemblyReference.cache
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\MainWindow.g.cs
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\App.g.cs
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle_MarkupCompile.cache
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle_MarkupCompile.lref
+D:\ProjectC#\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe.config
+D:\ProjectC#\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe
+D:\ProjectC#\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.pdb
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\MainWindow.baml
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.g.resources
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.GenerateResource.cache
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.exe
+D:\ProjectC#\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.pdb
